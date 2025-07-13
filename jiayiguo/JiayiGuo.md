@@ -18,6 +18,26 @@ PhD Candidate
 <a href="https://scholar.google.com/citations?user=2p6GCEEAAAAJ&hl=en">Google Scholar</a>
 
 ### Publications
+#### IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance
+[<a href="https://openreview.net/forum?id=pgzP8qa7YE&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FICCV%2F2025%2FConference%2FAuthors%23your-submissions)">paper</a>]
+
+Bib:Jiayi Guo, Chuanhao Yan, Xingqian Xu, Yulin Wang, Kai Wang, Gao Huang, Humphrey Shi.
+IEEE/CVF International Conference on Computer Vision (ICCV 2025)
+
+Tags: Visual Generative Models
+
+![faceclip](./assets/img.png)
+
+#### Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment
+[<a href="https://arxiv.org/pdf/2406.04295">paper</a>]
+
+Bib:Jiayi Guo, Junhao Zhao, Chaoqun Du, Yulin Wang, Chunjiang Ge, Zanlin Ni, Shiji Song, Humphrey Shi, Gao Huang.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2025)
+
+Tags: Visual Generative Models
+
+![faceclip](./assets/sda.png)
+
 #### FaceCLIP: Facial Image-to-Video Translation via A Brief Text Description
 [<a href="https://arxiv.org/pdf/2304.03119.pdf">paper</a>]
 
